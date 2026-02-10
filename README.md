@@ -1,6 +1,6 @@
 # Projects
 
-This repository documents a mix of academic labs and personal projects, indicated in the "Context" column.
+This repository documents a mix of academic labs and personal projects, indicated in the context column.
 
 | Project | Built With | Context |
 | -- | -- | -- |

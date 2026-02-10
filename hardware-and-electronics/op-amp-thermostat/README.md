@@ -38,7 +38,7 @@ In the context of the thermostat, if the output of the op amp is 5V, the referen
 ![Thermostat Schematic](images/thermostat-schematic.png)\
 *Thermostat circuit schematic provided by Florida Poly ECE Department.*
 
-## Implementation and Verification
+## Working Circuit
 
 ![Thermostat Active Breadboard](images/thermostat-breadboard.jpeg)\
 *The DC power supply (background) provides 5V of power to the circuit from channel 1 and a "sensor voltage" from channel 2 to simulate the environment's temperature. The DMM is used to check what the reference voltage of the potentiometer is set to. When the sensor voltage on the power supply is increased to higher than the reference voltage, the LED (heater unit) turns off.*
