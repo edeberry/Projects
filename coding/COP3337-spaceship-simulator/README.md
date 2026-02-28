@@ -1,6 +1,6 @@
 # Spaceship Simulator
 
-This repository contains my code for a homework assignment for COP3337 Object Oriented Programming.
+This repository contains my code for a homework assignment for COP3337 Object Oriented Programming. A possible improvement to make in the future would be to create constant variables for each direction (UP, DOWN, LEFT, RIGHT) rather than reusing strings throughout the code for each direction. This would improve the code's readibility and reduce chances for error if additions or changes are made to the code.
 
 ## Assignment
 
