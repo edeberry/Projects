@@ -16,3 +16,4 @@ This repository documents a mix of academic labs and personal projects, indicate
 | -- | -- | -- |
 | [Spaceship Navigation](./coding/COP3337-spaceship-navigation/) | C++ | COP3337 |
 | [Bank Account Class](./coding/COP3337-bank-account-class/) | C++ | COP3337 |
+| [Number Pyramid](./coding/COP3337-number-pyramid/) | C++ | COP3337 |
